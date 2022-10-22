@@ -22,9 +22,9 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6281575886399','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6281575886399' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6283822270848','6283822270848','6283822270848'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283822270848'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6283822270848' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
@@ -41,8 +41,8 @@ global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = 'bima bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'bima yg ganteng' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -83,7 +83,7 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
+admin: '_Fitur Khusus bima yg gntg!_',
 botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
 owner: '_Fitur Khusus Owner Bot_',
 group: '_Fitur Digunakan Hanya Untuk Group!_',
