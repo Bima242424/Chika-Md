@@ -57,7 +57,7 @@ free: 20,
 
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.thumb = fs.readFileSync('./image/chika.jpg')
+global.thumb = fs.readFileSync('./image/Screenshot_20230705_105720.jpg')
 /*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
 
 //—————「 Set Image Welcome 」—————//
